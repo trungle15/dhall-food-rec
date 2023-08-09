@@ -7,6 +7,6 @@ A LLM-enabled application that personalize food recommendations based on user di
 - [ ] Crawl data from Grinnell D-Hall
 - [ ] Build and test prototype model
 - [ ] Demo using Streamlit or Gradio
-- [ ] Build Flask app
+- [ ] Build Flask app for full fledge app
 
 
