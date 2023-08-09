@@ -8,5 +8,6 @@ A LLM-enabled application that personalize food recommendations based on user di
 - [ ] Build and test prototype model
 - [ ] Demo using Streamlit or Gradio
 - [ ] Build Flask app for full fledge app
+- [ ] Test
 
 
