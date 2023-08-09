@@ -6,5 +6,6 @@ A LLM-enabled application that personalize food recommendations based on user di
 
 - [ ] Crawl data from Grinnell D-Hall
 - [ ] Build and test prototype model
+- [ ] Demo using Streamlit
 
 
